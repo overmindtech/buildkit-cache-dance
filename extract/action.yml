@@ -1,3 +1,4 @@
+# Deprecated. Use ../action.yml instead.
 name: Extract Cache
 description: "Extracts the cached data from the docker build(x|kit) process"
 inputs:

@@ -1,3 +1,4 @@
+# Deprecated. Use ../action.yml instead.
 name: Inject Cache
 description: "Injects the cached data into the docker build(x|kit) process"
 inputs:
